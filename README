@@ -13,3 +13,9 @@ Goals:
   * tensor faces
 
 * overview of recent work on connections between neural networks and tensor decompositions
+
+The jupyter notebooks use Python 3.
+
+# additional packages to install
+tensory
+scikit-image
