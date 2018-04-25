@@ -23,3 +23,7 @@ pip install -U tensorly
 pip install imageio
 conda install --yes scikit-image
 ```
+Datasets:
+
+Download the `highway.avi` from [here](https://github.com/andrewssobral/lrslibrary/blob/master/dataset/highway.avi).
+Store it in a folder `data`.
