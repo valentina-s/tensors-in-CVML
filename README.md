@@ -1,6 +1,6 @@
-Special Topics in Data Science Seminar
+#### Special Topics in Data Science Seminar
 
-Tensor Decompositions in Machine Learning
+***Tensor Decompositions in Machine Learning***
 
 Goals:
 
@@ -16,6 +16,6 @@ Goals:
 
 The jupyter notebooks use Python 3.
 
-# additional packages to install
+Package Requirements:
 pip install -U tensorly
 conda install --yes scikit-image
