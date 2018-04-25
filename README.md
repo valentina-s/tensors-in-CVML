@@ -25,6 +25,5 @@ Datasets:
 Download the `highway.avi` from [here](https://github.com/andrewssobral/lrslibrary/blob/master/dataset/highway.avi).
 Store it in a folder `data`.
 
-Download this [zip file](https://wiki.helsinki.fi/download/attachments/112438459/yalefaces.zip?version=1&modificationDate=1384502269971&api=v2).
-
+Download this [zip file](http://vision.ucsd.edu/datasets/yale_face_dataset_original/yalefaces.zip).
 Unpack in folder `data`.
