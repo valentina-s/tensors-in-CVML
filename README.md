@@ -20,5 +20,6 @@ Package Requirements:
 
 ```
 pip install -U tensorly
+pip install imageio
 conda install --yes scikit-image
 ```
