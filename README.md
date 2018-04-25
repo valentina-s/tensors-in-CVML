@@ -17,5 +17,8 @@ Goals:
 The jupyter notebooks use Python 3.
 
 Package Requirements:
+
+```
 pip install -U tensorly
 conda install --yes scikit-image
+```
